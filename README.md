@@ -2,6 +2,8 @@
 
 ### Live Site: https://corona-tracker-80.web.app
 
+![](images/logo2.png)
+
 ### Introduction:
 This Corona Tracking Application is made up of the mixture of ReactJS, ChartJS and Material UI.
 
