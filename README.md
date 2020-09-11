@@ -2,7 +2,7 @@
 
 ### [Live Site](https://corona-tracker-80.web.app)
 
-![App](https://pasteboard.co/JqEfV6M.png)
+<img src = 'https://pasteboard.co/JqEfV6M.png'/>
 
 ### Introduction:
 This Corona Tracking Application is made up of the mixture of ReactJS, ChartJS and Material UI.
